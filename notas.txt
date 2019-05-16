@@ -13,3 +13,23 @@ npm install --save-dev @babel/cli@7.1.0
 
 npm install --save-dev @babel/preset-env
 
+
+
+el orden de los presets importa
+del ultimo hacia el 1ro
+
+
+en webpack , babel es un plugin
+
+
+
+Roque Argañaraz [11:25 AM]
+npm install --save-dev webpack-cli (edited) 
+npm install --save-dev webpack
+
+
+npm set registry  https://registry.npmjs.org
+
+
+
+
