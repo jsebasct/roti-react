@@ -1,0 +1,15 @@
+
+hay que instalar dos paquete solo para el proyecto
+
+babel-core y babel-cli
+
+npm install --save-dev @babel/core@7.1.0
+
+npm install --save-dev @babel/cli@7.1.0
+
+
+"babel": "babel index.js --presets=@babel/preset-env,@babel/preset-react",
+
+
+npm install --save-dev @babel/preset-env
+
