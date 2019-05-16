@@ -31,5 +31,47 @@ npm install --save-dev webpack
 npm set registry  https://registry.npmjs.org
 
 
+web pack solo interpreta js
+para css hay que cargar otro mas
 
+
+
+
+
+
+
+
+sudo npm install --save-dev style-loader@0.23.0
+sudo npm install --save-dev css-loader@1.0.0
+
+
+el css solo saca el css  y lo pnoe en un solo lugar
+en cambio el style genera dentro del html una etiqueta syle y le encufa lo que otro csscomiler le dio 
+
+
+
+
+
+let valor cambia durante el tiempo
+
+
+... copiando el contenido de la variable 
+
+
+se usa mucho para copiar las props
+
+map 5 props
+backend
+
+nombre apellido edad
+...data
+
+data.name, data.blah
+
+template literal
+
+'hello $(student.name)'
+
+
+parametros por defecto
 
